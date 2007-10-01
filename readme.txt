@@ -25,8 +25,8 @@ If you want to discuss the Jiglu widget, please e-mail:
 
 	1. Go to http://jiglu.com and register your blog
 	2. Either:
-		2a. Grab the Wordpress "Autotag" widget download and upload it to your "/wp-content/plugins/" directory; 
-		2b. Copy the "Other" code, upload and unzip this archive to your "/wp-content/plugins/" directory, and copy the code into the autotag.php file where indicated.
+	2a. Grab the Wordpress "Autotag" widget download and upload it to your "/wp-content/plugins/" directory; 
+	2b. Copy the "Other" code, upload and unzip this archive to your "/wp-content/plugins/" directory, and copy the code into the autotag.php file where indicated.
 	3. Acivate the plugin through the "Plugins" menu in Wordpress.
 	4. From the Presentation menu choose the Sidebar widgets option to change the order in which the widgets appear on your site.
 	5. Manage the look and feel of the widget from your home page at http://jiglu.com
